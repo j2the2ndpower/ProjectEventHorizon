@@ -29,8 +29,8 @@ Material:
     - _ComplicatedAmount1: 0.85
     - _ComplicatedRadiusInner1: 0.2
     - _ComplicatedRadiusOuter1: 0.27
-    - _DarkRange: 0.05932083
-    - _Distortion: -2.0465882
+    - _DarkRange: 0.037834346
+    - _Distortion: -1.5906448
     - _Form: 0.3
     - _Radius: 1
     - _SimpleAmount1: 0.5
@@ -41,7 +41,7 @@ Material:
     - _SimpleAmount6: 0.5
     - _SimpleAmount7: 0.5
     - _SimpleAmount8: 0.5
-    - _Warp: 6.363193
+    - _Warp: 21.016977
     m_Colors:
     - _Center: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
