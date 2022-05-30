@@ -1,0 +1,9 @@
+Packages
+Build
+.plastic
+.collabignore
+.vscode
+.vsconfig
+Library
+Logs/**
+Temp

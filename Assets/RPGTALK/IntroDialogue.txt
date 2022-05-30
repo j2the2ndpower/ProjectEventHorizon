@@ -1,0 +1,9 @@
+Base Station: Commander Keane, we are seeing a warning indicator on your EVA tether.
+Commander Keane: Base Station, this is Commander Keane.  All systems nominal here.  Proceeding.
+Base Station: Base Station to Commander Keane, Negative.  Do not proceed.
+Commander Keane: . . . . . . . .
+Base Station: Base Station to Comander Keane.  Please respond.
+Commander Keane: ...
+Base Station: Transmit to Home Base.  Commander Keane has been pulled into the black hole and has been killed.
+Base Station: ...
+Base Station: This mission is a failure.

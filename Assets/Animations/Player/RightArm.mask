@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RightArm
+  m_Mask: 00000000000000000000000000000000000000000000000001000000000000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Root
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Left
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Left/Arm1LeftCollider
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Left/Arm1LeftCollider/Arm1LeftCollider_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Left/Arm_2_Left
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Left/Arm_2_Left/Arm2LeftCollider
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Left/Arm_2_Left/Arm2LeftCollider/Arm2LeftCollider_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Left/Arm_2_Left/Arm_2_Left_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Left/Arm_2_Left/Arm_2_Left_end/Arm_2_Left_end_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Right
+    m_Weight: 1
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Right/Arm1RightCollider
+    m_Weight: 1
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Right/Arm1RightCollider/Arm1RightCollider_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Right/Arm_2_Right
+    m_Weight: 1
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Right/Arm_2_Right/Arm2RightCollider
+    m_Weight: 1
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Right/Arm_2_Right/Arm2RightCollider/Arm2RightCollider_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Right/Arm_2_Right/Arm_2_Right_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Arm_1_Right/Arm_2_Right/Arm_2_Right_end/Arm_2_Right_end_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Head
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Head/Head_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/Head/Head_end/Head_end_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/IK_Arm_Left
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/IK_Arm_Left/IK_Arm_Left_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/IK_Arm_Left/IK_Arm_Left_end/IK_Arm_Left_end_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/IK_Arm_Right
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/IK_Arm_Right/IK_Arm_Right_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Body_Upper/IK_Arm_Right/IK_Arm_Right_end/IK_Arm_Right_end_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Left
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Left/Foot1LeftCollider
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Left/Foot1LeftCollider/Foot1LeftCollider_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Left/Foot_2_Left
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Left/Foot_2_Left/Foot2LeftCollider
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Left/Foot_2_Left/Foot2LeftCollider/Foot2LeftCollider_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Left/Foot_2_Left/Foot_2_Left_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Left/Foot_2_Left/Foot_2_Left_end/Foot_2_Left_end_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Right
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Right/Foot1RightCollider
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Right/Foot1RightCollider/Foot1RightCollider_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Right/Foot_2_Right
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Right/Foot_2_Right/Foot2RightCollider
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Right/Foot_2_Right/Foot2RightCollider/Foot2RightCollider_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Right/Foot_2_Right/Foot_2_Right_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Foot_1_Right/Foot_2_Right/Foot_2_Right_end/Foot_2_Right_end_end
+    m_Weight: 0
+  - m_Path: Armature/Root/IK_Foot_Left
+    m_Weight: 0
+  - m_Path: Armature/Root/IK_Foot_Left/IK_Foot_Left_end
+    m_Weight: 0
+  - m_Path: Armature/Root/IK_Foot_Left/IK_Foot_Left_end/IK_Foot_Left_end_end
+    m_Weight: 0
+  - m_Path: Armature/Root/IK_Foot_Right
+    m_Weight: 0
+  - m_Path: Armature/Root/IK_Foot_Right/IK_Foot_Right_end
+    m_Weight: 0
+  - m_Path: Armature/Root/IK_Foot_Right/IK_Foot_Right_end/IK_Foot_Right_end_end
+    m_Weight: 0
+  - m_Path: Player
+    m_Weight: 0
